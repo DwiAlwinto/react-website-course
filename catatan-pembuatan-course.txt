@@ -1,0 +1,26 @@
+Noted : 
+kita menggunaka vite extension ya lebih baik jsx 
+
+website Clonning ya :
+https://rubrikgrafis.com/
+
+
+
+intasll ract-router-dom : npm install react-router-dom
+instal react-bootsrtap : 
+npm install react-bootstrap bootstrap
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+copy link font-awesome CDN :
+https://cdnjs.com/libraries/font-awesome
+
+
+install swipper :
+https://swiperjs.com/get-started
+
+menambahkan function scrolltitop
+
+menambahkan animate.style :
+instal
+https://animate.style/
